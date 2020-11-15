@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    
+}
+header{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+header img{
+    height: 65px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.liCon{
+    display: flex;
+    justify-content: space-between;
+}
